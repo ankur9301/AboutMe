@@ -1,4 +1,5 @@
-# OnTrack
+
+# AboutMe
 
 ## Table of Contents
 
@@ -11,16 +12,15 @@
 
 ### Description
 
-This app is essentially your all-in-one space to keep track of homework assignments/projects, exams, and quick notes for each of the classes you are  currently taking.
-
+This app is all in one about you showcasing your resume, details, projects in details as a portfolio (About You). 
 ### App Evaluation
 
-- **Category:** Productivity
-- **Mobile:** As much as this could just as easily be a website, it makes it more convenient for users to be able to access these features from the convenience of their palm, especially as a college student who could be more likely to be with their phone than their computer, especially if they need to be reminded about an outstanding task while hanging out with friends.
-- **Story:** Students are able to stay up-to-date with all their classes, ensuring that nothing is left outstanding. Considering how beneficial this would be to students, the audience of this app is able to see value in essentially having a mobile and digital accountability partner for school work.
-- **Market:** This would appeal mostly to students generally but my ideal target audience is fellow college stduents like myself. In some sense, this may only realistically appeal to studious students who do not want to miss deadlines, but it is ultimately for any student regardless of level of education.
-- **Habit:** Considering that is essentially a school planner, the user would likely use the app often, so that they would always be on track with all their work. The app would probably be opened many times in one day to either check what tasks need to be done or to add/edit existing tasks.
-- **Scope:** The app in some sense should not be too complicated, at the very most the optional features such as adding the ability of the app to push notification reminders about outstanding tasks. The app realistically just works with switching between view controllers using tab bar navigation, so it terms of technically challenging, it should be very possible to complete it by the end of the program.
+**Category:** Professional / Career
+**Mobile:** Simplified mobile interface for presenting a professional portfolio.
+**Story:** A convenient way for individuals to showcase their professional journey and projects in a concise format.
+**Market:** Professionals and students who want a straightforward tool to display their work and achievements.
+**Habit:** Users update their portfolios as needed, typically ahead of interviews, meetings, or when they have new work to showcase.
+**Scope:** A basic app that allows users to create a profile, add portfolio items, and share their portfolio with others.
 
 ## Product Spec
 
