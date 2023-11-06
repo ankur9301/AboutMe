@@ -28,48 +28,47 @@ This app is all in one about you showcasing your resume, details, projects in de
 
 **Required Must-have Stories**
 
-* User can add homework as new tasks
-* User can toggle completed/unfinished for homeworks/projects
+* User can upload and display portfolio items such as images, documents, or links to past work.
+* User can select options like Resume, Project Lists, and Contact Details to go to different screen.
 * User can add exams as events to keep track of exam dates
 * User can delete homework tasks
 
 
 **Optional Nice-to-have Stories**
 
-* User can receive reminder notifications about outstanding tasks
-* User can change some settings of the app, such as frequency of notifications or color theme
-* User can view all tasks in a calendar view
-* User can view a list of their classes
-* User can view a detailed view of each course they are taking
+* User can customize the theme and layout of their portfolio presentation.
+* User can further move to another screen after clicking the project(seperate window showcasing detail project View)
+
 
 ### 2. Screen Archetypes
 
-- [ ] Stream
-* User can toggle completed/unfinished for homeworks/projects
+- [ ] Main Screen
+* User can select the About me button to move to new window
 * User can delete homework tasks
-- [ ] Creation
-* User can add homework as new tasks
-* User can add exams as events to keep track of exam dates
-- [ ] Calendar **(Optional)**
-* User can view all tasks in a calendar view
+- [ ] Contents
+* User can choose betwwen different options where to go
+
 
 ### 3. Navigation
 
 **Tab Navigation** (Tab to Screen)
 
-* Homework Todo List
-* Exam Countdown
-* Calendar View
+* About Me
+* Contents(Resume, Project Lists, Contact Info)
+
 
 **Flow Navigation** (Screen to Screen)
 
-- [ ] Stream
-* => Creation, for the creation of new tasks/exam date events that will appear in the stream screen
-* => Future version will likely involve navigation to a detailed view of courses, if [Courses Overview] tab navigation is added
-- [ ] Creation
-* => Stream, returns back to this screen after creating a new task/exam date event
-- [ ] Calendar
-* => None
+- [ ] About Me
+* => Takes to a new storyboard
+* => New Window
+- [ ] Contact Info
+* => Takes us to a different window with contact details
+- [ ] Resume
+* => Shows us the resume
+- [ ] Project Lists
+* => Shows the project lists
+
 
 ## Wireframes
 
