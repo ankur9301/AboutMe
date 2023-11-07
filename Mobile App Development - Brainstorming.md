@@ -1,4 +1,4 @@
-# Mobile App Development - Brainstorming**
+# - Brainstorming - Mobile App Development **
 
 **Favorite Existing Apps - List**
 
