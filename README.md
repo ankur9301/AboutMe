@@ -74,6 +74,13 @@ This app is all in one about you showcasing your resume, details, projects in de
 
 <img width="537" alt="image" src="https://github.com/ankur9301/AboutMe/assets/114321826/0a8e792b-88d3-41a6-92ba-6466d8b142ec">
 
+  <a href="https://www.loom.com/share/93d2f655fdf648d3bfb9b60cc0e6bfe6">
+    <p>Simulator - iPhone 15 Pro Max - 6 November 2023 - Watch Video</p>
+  </a>
+  <a href="https://www.loom.com/share/93d2f655fdf648d3bfb9b60cc0e6bfe6">
+    <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/93d2f655fdf648d3bfb9b60cc0e6bfe6-with-play.gif">
+  </a>
+
 
 
 
