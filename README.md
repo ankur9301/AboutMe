@@ -72,9 +72,10 @@ This app is all in one about you showcasing your resume, details, projects in de
 
 ## Wireframes
 
-![IMG_6345 3](https://github.com/ankur9301/AboutMe/assets/114321826/51f2257c-780c-49d0-81e1-69c25afbc272)
+<img width="537" alt="image" src="https://github.com/ankur9301/AboutMe/assets/114321826/0a8e792b-88d3-41a6-92ba-6466d8b142ec">
 
-<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+
+
 
 ### [BONUS] Digital Wireframes & Mockups
 
