@@ -30,8 +30,7 @@ This app is all in one about you showcasing your resume, details, projects in de
 
 * User can upload and display portfolio items such as images, documents, or links to past work.
 * User can select options like Resume, Project Lists, and Contact Details to go to different screen.
-* User can add exams as events to keep track of exam dates
-* User can delete homework tasks
+
 
 
 **Optional Nice-to-have Stories**
